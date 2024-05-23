@@ -1,0 +1,16 @@
+current directory: /Users/gilryogo/Developer/gil/next-rails-template/.bundle/ruby/3.1.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+/Users/gilryogo/.anyenv/envs/rbenv/versions/3.1.4/bin/ruby -I /Users/gilryogo/.anyenv/envs/rbenv/versions/3.1.4/lib/ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /Users/gilryogo/Developer/gil/next-rails-template/.bundle/ruby/3.1.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240414-50936-znrlmt sitelibdir\=./.gem.20240414-50936-znrlmt clean
+
+current directory: /Users/gilryogo/Developer/gil/next-rails-template/.bundle/ruby/3.1.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240414-50936-znrlmt sitelibdir\=./.gem.20240414-50936-znrlmt
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.1'
+
+current directory: /Users/gilryogo/Developer/gil/next-rails-template/.bundle/ruby/3.1.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240414-50936-znrlmt sitelibdir\=./.gem.20240414-50936-znrlmt install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20240414-50936-znrlmt

@@ -1,0 +1,16 @@
+current directory: /Users/gilryogo/Developer/gil/next-rails-template/.bundle/ruby/3.1.0/gems/racc-1.7.3/ext/racc/cparse
+/Users/gilryogo/.anyenv/envs/rbenv/versions/3.1.4/bin/ruby -I /Users/gilryogo/.anyenv/envs/rbenv/versions/3.1.4/lib/ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /Users/gilryogo/Developer/gil/next-rails-template/.bundle/ruby/3.1.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240414-50936-qy75oe sitelibdir\=./.gem.20240414-50936-qy75oe clean
+
+current directory: /Users/gilryogo/Developer/gil/next-rails-template/.bundle/ruby/3.1.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240414-50936-qy75oe sitelibdir\=./.gem.20240414-50936-qy75oe
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.1'
+
+current directory: /Users/gilryogo/Developer/gil/next-rails-template/.bundle/ruby/3.1.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240414-50936-qy75oe sitelibdir\=./.gem.20240414-50936-qy75oe install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20240414-50936-qy75oe/racc
